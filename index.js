@@ -1,7 +1,7 @@
 const path = require('path');
 const core = require('@actions/core');
 const exec = require('@actions/exec');
-const GhostAdminApi = require('@tryghost/admin-api');
+const GhostAdminApi = require('@getupandCROW/admin-api');
 
 (async function main() {
     try {
