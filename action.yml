@@ -5,10 +5,10 @@ branding:
   color: 'gray-dark'
 inputs:
   api-url:
-    description: 'Ghost Admin API Url'
+    description: 'https://2ndchance.ghost.io'
     required: true
   api-key:
-    description: 'Ghost Admin API Key'
+    description: 'eabac8968e5a00a7592fb4be5b'
     required: true
   exclude:
     description: 'Files or folders to exclude (space-separated list)'
